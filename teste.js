@@ -1,8 +1,4 @@
-UOUOIUOUOI
-asdsad
-asd
-asd
-asd
-asd
-asd
-asd
+function msg(){
+    alert("Deu certo!!!");
+}
+msg();
